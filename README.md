@@ -9,6 +9,6 @@
     <li><strong>🖥 MERN Developer</strong> | <strong>🌐 Open Source Contributor</strong></li>
     <li><strong>📚 Exploring Web3</strong> & building meaningful side projects 🚀</li>
     <li><strong>📫 Reach me:</strong> chetanchaudhari9371@gmail.com</li>
-    <li><strong>🌐 Portfolio:</strong> <a href="https://vrplaced.ai" target="_blank"><strong>vrplaced.ai</strong></a></li>
+    <li><strong>🌐 Portfolio:</strong> <a href="[https://vrplaced.ai](https://chetan-black.vercel.app/)" target="_blank"><strong>Check It Out</strong></a></li>
   </ul>
 </div>
