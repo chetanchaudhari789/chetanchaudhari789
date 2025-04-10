@@ -8,7 +8,7 @@
   <ul style="list-style: none; padding: 0; font-size: 16px;">
     <li><strong>🖥 MERN Developer</strong> | <strong>🌐 Open Source Contributor</strong></li>
     <li><strong>📚 Exploring Web3</strong> & building meaningful side projects 🚀</li>
-    <li><strong>📫 Reach me:</strong> chetanchaudhari9371@gmail.com</li>
+    <li><strong>📫 Reach me:</strong> <a href="mailto:chetanchaudhari9371@gmail.com"><strong>chetanchaudhari9371@gmail.com</strong></a></li>
     <li><strong>🌐 Portfolio:</strong> <a href="https://chetan-black.vercel.app/"><strong>https://chetan-black.vercel.app/</strong></a></li>
   </ul>
 </div>
